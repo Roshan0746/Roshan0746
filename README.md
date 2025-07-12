@@ -1,5 +1,7 @@
 # 👋 Hi there, I'm RoshanGP4A (Roshan0746)
 
+![trophy](https://github-profile-trophy.vercel.app/?username=Roshan0746&theme=tokyonight&no-frame=true&column=7)
+
 ---
 
 ### 📊 GitHub Stats
