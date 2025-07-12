@@ -1,7 +1,6 @@
 # 👋 Hi there, I'm RoshanGP4A (Roshan0746)
 
 <img src="https://readme-typing-svg.demolab.com?lines=Android+ROM+Builder;KernelSU+Tweaker;Pixel+4a+Enthusiast;Open+Source+Lover&center=true&width=500&color=00bcd4&vCenter=true&size=20" />
-
 ---
 
 ### 📊 GitHub Stats
