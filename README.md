@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm RoshanGP4A (Roshan0746)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Roshan0746&theme=tokyonight&no-frame=true&column=7)
+<img src="https://readme-typing-svg.demolab.com?lines=Android+ROM+Builder;KernelSU+Tweaker;Pixel+4a+Enthusiast;Open+Source+Lover&center=true&width=500&color=00bcd4&vCenter=true&size=20" />
 
 ---
 
