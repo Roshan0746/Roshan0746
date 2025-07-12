@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm RoshanGP4A (Roshan0746)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F75C7E&vCenter=true&width=600&lines=👋+Hey%2C+I'm+RoshanGP4A+(Roshan0746)!;🔧+Pixel+4a+ROM+%26+Kernel+Tinkerer;⚙️+KernelSU%2C+SUSFS+and+performance+modder;🚀+Flashing+ROMs+since+school+days;💡+Learning+daily+and+sharing+openly" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00BCD4&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+RoshanGP4A+(Roshan0746)!;Pixel+4a+ROM+%26+Kernel+Tinkerer;KernelSU%2C+SUSFS+%26+Performance+Modder;Flashing+ROMs+since+School+Days;Learning+Daily+and+Sharing+Openly" alt="Typing SVG" />
 </p>
 
 ---
