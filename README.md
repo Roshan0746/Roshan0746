@@ -1,6 +1,9 @@
 # 👋 Hi there, I'm RoshanGP4A (Roshan0746)
 
-<img src="https://readme-typing-svg.demolab.com?lines=Android+ROM+Builder;KernelSU+Tweaker;Pixel+4a+Enthusiast;Open+Source+Lover&center=true&width=500&color=00bcd4&vCenter=true&size=20" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F75C7E&vCenter=true&width=600&lines=👋+Hey%2C+I'm+RoshanGP4A+(Roshan0746)!;🔧+Pixel+4a+ROM+%26+Kernel+Tinkerer;⚙️+KernelSU%2C+SUSFS+and+performance+modder;🚀+Flashing+ROMs+since+school+days;💡+Learning+daily+and+sharing+openly" alt="Typing SVG" />
+</p>
+
 ---
 
 ### 📊 GitHub Stats
